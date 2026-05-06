@@ -1,0 +1,22 @@
+{"confidence": 41, "drag": 9, "focus": "rename risk", "id": "b001", "lane": "hold", "score": 113, "signal": 41, "slack": 26, "threshold": "watch"}
+{"confidence": 44, "drag": 10, "focus": "operator cost", "id": "b002", "lane": "hold", "score": 115, "signal": 42, "slack": 27, "threshold": "watch"}
+{"confidence": 47, "drag": 11, "focus": "idempotence", "id": "b003", "lane": "hold", "score": 117, "signal": 43, "slack": 28, "threshold": "watch"}
+{"confidence": 50, "drag": 12, "focus": "dry-run spread", "id": "b004", "lane": "hold", "score": 119, "signal": 44, "slack": 29, "threshold": "watch"}
+{"confidence": 53, "drag": 13, "focus": "rename risk", "id": "b005", "lane": "hold", "score": 121, "signal": 45, "slack": 30, "threshold": "watch"}
+{"confidence": 56, "drag": 14, "focus": "operator cost", "id": "b006", "lane": "watch", "score": 123, "signal": 46, "slack": 31, "threshold": "watch"}
+{"confidence": 59, "drag": 15, "focus": "idempotence", "id": "b007", "lane": "watch", "score": 125, "signal": 47, "slack": 32, "threshold": "watch"}
+{"confidence": 62, "drag": 16, "focus": "dry-run spread", "id": "b008", "lane": "watch", "score": 127, "signal": 48, "slack": 33, "threshold": "watch"}
+{"confidence": 65, "drag": 17, "focus": "rename risk", "id": "b009", "lane": "watch", "score": 129, "signal": 49, "slack": 34, "threshold": "watch"}
+{"confidence": 68, "drag": 18, "focus": "operator cost", "id": "b010", "lane": "watch", "score": 131, "signal": 50, "slack": 35, "threshold": "watch"}
+{"confidence": 71, "drag": 19, "focus": "idempotence", "id": "b011", "lane": "watch", "score": 133, "signal": 51, "slack": 36, "threshold": "watch"}
+{"confidence": 103, "drag": 20, "focus": "dry-run spread", "id": "b012", "lane": "watch", "score": 164, "signal": 52, "slack": 37, "threshold": "ship"}
+{"confidence": 106, "drag": 21, "focus": "rename risk", "id": "b013", "lane": "watch", "score": 166, "signal": 53, "slack": 38, "threshold": "ship"}
+{"confidence": 109, "drag": 22, "focus": "operator cost", "id": "b014", "lane": "watch", "score": 168, "signal": 54, "slack": 39, "threshold": "ship"}
+{"confidence": 112, "drag": 23, "focus": "idempotence", "id": "b015", "lane": "watch", "score": 170, "signal": 55, "slack": 40, "threshold": "ship"}
+{"confidence": 115, "drag": 24, "focus": "dry-run spread", "id": "b016", "lane": "watch", "score": 172, "signal": 56, "slack": 41, "threshold": "ship"}
+{"confidence": 118, "drag": 25, "focus": "rename risk", "id": "b017", "lane": "ship", "score": 174, "signal": 57, "slack": 42, "threshold": "ship"}
+{"confidence": 121, "drag": 26, "focus": "operator cost", "id": "b018", "lane": "ship", "score": 176, "signal": 58, "slack": 43, "threshold": "ship"}
+{"confidence": 124, "drag": 27, "focus": "idempotence", "id": "b019", "lane": "ship", "score": 178, "signal": 59, "slack": 44, "threshold": "ship"}
+{"confidence": 47, "drag": 8, "focus": "dry-run spread", "id": "b020", "lane": "ship", "score": 180, "signal": 60, "slack": 45, "threshold": "ship"}
+{"confidence": 50, "drag": 9, "focus": "rename risk", "id": "b021", "lane": "ship", "score": 182, "signal": 61, "slack": 46, "threshold": "ship"}
+{"confidence": 53, "drag": 10, "focus": "operator cost", "id": "b022", "lane": "ship", "score": 184, "signal": 62, "slack": 47, "threshold": "ship"}

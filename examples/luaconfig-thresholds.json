@@ -1,0 +1,17 @@
+{
+  "repo": "luaconfig",
+  "thresholds": {
+    "signal": 2,
+    "slack": 1,
+    "confidence": 1,
+    "drag": 4,
+    "ship": 174,
+    "watch": 123
+  },
+  "terms": [
+    "dry-run spread",
+    "rename risk",
+    "operator cost",
+    "idempotence"
+  ]
+}

@@ -1,0 +1,32 @@
+{"confidence": 20, "drag": 10, "focus": "dry-run spread", "id": "g001", "invariant": "monotonic-signal", "kind": "baseline", "lane": "ship", "score": 244, "signal": 116, "slack": 32}
+{"confidence": 72, "drag": 31, "focus": "rename risk", "id": "g002", "invariant": "drag-penalty", "kind": "edge", "lane": "hold", "score": 45, "signal": 36, "slack": 25}
+{"confidence": 70, "drag": 22, "focus": "operator cost", "id": "g003", "invariant": "confidence-floor", "kind": "recovery", "lane": "watch", "score": 127, "signal": 43, "slack": 59}
+{"confidence": 20, "drag": 40, "focus": "idempotence", "id": "g004", "invariant": "lane-boundary", "kind": "negative", "lane": "hold", "score": 91, "signal": 94, "slack": 43}
+{"confidence": 85, "drag": 29, "focus": "dry-run spread", "id": "g005", "invariant": "monotonic-signal", "kind": "baseline", "lane": "hold", "score": 77, "signal": 35, "slack": 38}
+{"confidence": 36, "drag": 25, "focus": "rename risk", "id": "g006", "invariant": "drag-penalty", "kind": "edge", "lane": "hold", "score": 115, "signal": 53, "slack": 73}
+{"confidence": 59, "drag": 4, "focus": "operator cost", "id": "g007", "invariant": "confidence-floor", "kind": "recovery", "lane": "ship", "score": 233, "signal": 66, "slack": 58}
+{"confidence": 75, "drag": 16, "focus": "idempotence", "id": "g008", "invariant": "lane-boundary", "kind": "negative", "lane": "watch", "score": 128, "signal": 32, "slack": 53}
+{"confidence": 88, "drag": 23, "focus": "dry-run spread", "id": "g009", "invariant": "monotonic-signal", "kind": "baseline", "lane": "watch", "score": 138, "signal": 62, "slack": 18}
+{"confidence": 56, "drag": 28, "focus": "rename risk", "id": "g010", "invariant": "drag-penalty", "kind": "edge", "lane": "hold", "score": 56, "signal": 37, "slack": 38}
+{"confidence": 44, "drag": 11, "focus": "operator cost", "id": "g011", "invariant": "confidence-floor", "kind": "recovery", "lane": "ship", "score": 247, "signal": 116, "slack": 15}
+{"confidence": 43, "drag": 4, "focus": "idempotence", "id": "g012", "invariant": "lane-boundary", "kind": "negative", "lane": "ship", "score": 298, "signal": 115, "slack": 41}
+{"confidence": 90, "drag": 12, "focus": "dry-run spread", "id": "g013", "invariant": "monotonic-signal", "kind": "baseline", "lane": "watch", "score": 124, "signal": 30, "slack": 22}
+{"confidence": 75, "drag": 8, "focus": "rename risk", "id": "g014", "invariant": "drag-penalty", "kind": "edge", "lane": "ship", "score": 251, "signal": 79, "slack": 50}
+{"confidence": 72, "drag": 7, "focus": "operator cost", "id": "g015", "invariant": "confidence-floor", "kind": "recovery", "lane": "ship", "score": 289, "signal": 107, "slack": 31}
+{"confidence": 75, "drag": 8, "focus": "idempotence", "id": "g016", "invariant": "lane-boundary", "kind": "negative", "lane": "ship", "score": 227, "signal": 80, "slack": 24}
+{"confidence": 81, "drag": 31, "focus": "dry-run spread", "id": "g017", "invariant": "monotonic-signal", "kind": "baseline", "lane": "ship", "score": 208, "signal": 114, "slack": 23}
+{"confidence": 88, "drag": 23, "focus": "rename risk", "id": "g018", "invariant": "drag-penalty", "kind": "edge", "lane": "ship", "score": 238, "signal": 91, "slack": 60}
+{"confidence": 96, "drag": 42, "focus": "operator cost", "id": "g019", "invariant": "confidence-floor", "kind": "recovery", "lane": "watch", "score": 140, "signal": 83, "slack": 46}
+{"confidence": 105, "drag": 32, "focus": "idempotence", "id": "g020", "invariant": "lane-boundary", "kind": "negative", "lane": "ship", "score": 183, "signal": 82, "slack": 42}
+{"confidence": 71, "drag": 28, "focus": "dry-run spread", "id": "g021", "invariant": "monotonic-signal", "kind": "baseline", "lane": "hold", "score": 83, "signal": 41, "slack": 42}
+{"confidence": 69, "drag": 7, "focus": "rename risk", "id": "g022", "invariant": "drag-penalty", "kind": "edge", "lane": "ship", "score": 187, "signal": 68, "slack": 10}
+{"confidence": 105, "drag": 40, "focus": "operator cost", "id": "g023", "invariant": "confidence-floor", "kind": "recovery", "lane": "watch", "score": 146, "signal": 85, "slack": 31}
+{"confidence": 84, "drag": 37, "focus": "idempotence", "id": "g024", "invariant": "lane-boundary", "kind": "negative", "lane": "watch", "score": 139, "signal": 97, "slack": 9}
+{"confidence": 35, "drag": 16, "focus": "dry-run spread", "id": "g025", "invariant": "monotonic-signal", "kind": "baseline", "lane": "ship", "score": 201, "signal": 107, "slack": 16}
+{"confidence": 58, "drag": 7, "focus": "rename risk", "id": "g026", "invariant": "drag-penalty", "kind": "edge", "lane": "ship", "score": 302, "signal": 115, "slack": 42}
+{"confidence": 74, "drag": 25, "focus": "operator cost", "id": "g027", "invariant": "confidence-floor", "kind": "recovery", "lane": "ship", "score": 189, "signal": 79, "slack": 57}
+{"confidence": 87, "drag": 14, "focus": "idempotence", "id": "g028", "invariant": "lane-boundary", "kind": "negative", "lane": "ship", "score": 191, "signal": 64, "slack": 32}
+{"confidence": 55, "drag": 10, "focus": "dry-run spread", "id": "g029", "invariant": "monotonic-signal", "kind": "baseline", "lane": "ship", "score": 192, "signal": 60, "slack": 57}
+{"confidence": 43, "drag": 31, "focus": "rename risk", "id": "g030", "invariant": "drag-penalty", "kind": "edge", "lane": "hold", "score": 80, "signal": 62, "slack": 37}
+{"confidence": 42, "drag": 43, "focus": "operator cost", "id": "g031", "invariant": "confidence-floor", "kind": "recovery", "lane": "hold", "score": 32, "signal": 66, "slack": 30}
+{"confidence": 89, "drag": 8, "focus": "idempotence", "id": "g032", "invariant": "lane-boundary", "kind": "negative", "lane": "ship", "score": 259, "signal": 69, "slack": 64}
