@@ -1,0 +1,73 @@
+{
+  "repo": "luaconfig",
+  "language": "Lua",
+  "category": "Automation",
+  "goal": "Resolve layered config values with includes and provenance.",
+  "review_model": {
+    "terms": [
+      "dry-run spread",
+      "rename risk",
+      "operator cost",
+      "idempotence"
+    ],
+    "lanes": [
+      "ship",
+      "watch",
+      "hold"
+    ],
+    "score": "signal * 2 + slack + confidence - drag * 3",
+    "purpose": "surface the domain-specific cases that need the most careful review"
+  },
+  "cases": [
+    {
+      "name": "baseline",
+      "focus": "dry-run spread",
+      "signal": 61,
+      "slack": 43,
+      "drag": 23,
+      "confidence": 69,
+      "score": 165,
+      "lane": "ship"
+    },
+    {
+      "name": "stress",
+      "focus": "rename risk",
+      "signal": 71,
+      "slack": 32,
+      "drag": 32,
+      "confidence": 88,
+      "score": 166,
+      "lane": "ship"
+    },
+    {
+      "name": "edge",
+      "focus": "operator cost",
+      "signal": 85,
+      "slack": 49,
+      "drag": 31,
+      "confidence": 93,
+      "score": 219,
+      "lane": "ship"
+    },
+    {
+      "name": "recovery",
+      "focus": "idempotence",
+      "signal": 74,
+      "slack": 39,
+      "drag": 17,
+      "confidence": 69,
+      "score": 205,
+      "lane": "ship"
+    },
+    {
+      "name": "stale",
+      "focus": "dry-run spread",
+      "signal": 65,
+      "slack": 25,
+      "drag": 20,
+      "confidence": 63,
+      "score": 158,
+      "lane": "ship"
+    }
+  ]
+}
